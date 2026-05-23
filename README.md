@@ -47,7 +47,7 @@ chmod +x setup.sh && ./setup.sh
 
 Then start the app:
 ```bash
-python run.py
+python run.py or run_gui
 ```
 
 ### Option 2: Manual Setup
