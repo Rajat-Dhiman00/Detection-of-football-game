@@ -22,7 +22,7 @@ Detect players, track movements, analyze formations, and generate tactical insig
 | 📡 Multi-Object Tracking | ByteTrack | Persistent player IDs across video frames |
 | 🔥 Heatmaps | OpenCV + Matplotlib | Player position density visualization |
 | 🏃 Speed Estimation | Pixel Calibration | Real-time speed in km/h per player |
-| 📐 Formation Analysis | K-Means Clustering | Detect 4-4-2, 4-3-3, etc. formations |
+| 📐 Formation Analysis | K-Means Clustering | Detect 4-4-2, 4-3-3, etc. formations | (currently in work)
 | ⚽ Possession Tracking | Proximity Analysis | Ball possession % per player |
 | 🦴 Pose Estimation | MediaPipe | Body landmark detection |
 | 📊 Analytics Dashboard | Streamlit | Live stats, charts, and metrics |
